@@ -1,0 +1,15 @@
+.catList {
+	height: 100vh;
+	width: 100%;
+	padding: 0 20rem;
+	display: flex;
+	flex-direction: column;
+	gap: 1.5rem;
+	align-items: center;
+}
+
+.catImage {
+	width: 18.75rem;
+	height: 25rem;
+	object-fit: cover;
+}
