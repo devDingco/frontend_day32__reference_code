@@ -1,4 +1,9 @@
 ## 과제 요구 사항
+### 레퍼런스 코드에 사용된 OPEN API
+고양이 이미지를 불러오는 API를 사용했어요.
+ - API 키 발급이 필요하고, 회원 가입 후에 API 키를 발급받을 수 있습니다.
+ - <a href="https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t">API 사용 방법</a>
+ 
 
 ### **공통**
 
