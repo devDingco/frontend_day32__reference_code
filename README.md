@@ -3,7 +3,9 @@
 고양이 이미지를 불러오는 API를 사용했어요.
  - API 키 발급이 필요하고, 회원 가입 후에 API 키를 발급받을 수 있습니다.
  - <a href="https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t">API 사용 방법</a>
- 
+ - 환경변수:
+   - `NEXT_PUBLIC_API_URL`=https://api.thecatapi.com/v1/images/search?limit=10&breed_ids=beng
+   - `NEXT_PUBLIC_API_KEY`="발급 받은 API 키를 넣어주세요!"
 
 ### **공통**
 
